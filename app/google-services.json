@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "135920608886",
+    "firebase_url": "https://gesture-9874c.firebaseio.com",
+    "project_id": "gesture-9874c",
+    "storage_bucket": "gesture-9874c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135920608886:android:abe5f29c84a53b96",
+        "android_client_info": {
+          "package_name": "com.ak.gesture"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "135920608886-72av7mgmhlcab63steebeb617upd2ogv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ak.gesture",
+            "certificate_hash": "8c14413e46c62fa988182be8f85ae1d6f4f919c1"
+          }
+        },
+        {
+          "client_id": "135920608886-59a35m5cmvd6iqegi88s15s5qv90qkh1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4CJVOWjVnSwlIZ9cLFOuLjnsGXj6qtwk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "135920608886-59a35m5cmvd6iqegi88s15s5qv90qkh1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
